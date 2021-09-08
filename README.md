@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Alokik Kanchan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning MERN Stack
 
 <!---
 alokik98/alokik98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
